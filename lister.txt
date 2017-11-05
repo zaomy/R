@@ -1,0 +1,13 @@
+Dataset:  lister.dat
+Source: Lister (1870). Effects of the Antiseptic System of Treatment
+Upon the Salubrity of a Surgical Hospital. The Lancet, 1:4-6,40-42.
+
+Description: Results on survival of Upper and lower Limb amputees prior to and
+after discovery and use of antiseptic.
+
+Variables/Columns
+Subject id  7-8
+Year       13-16
+Aniseptic  24  (1=Post-Discovery,0=Pre-discovery)
+Limb   32   (1=Lower, 2=Upper)
+outcome  40        (1=Recovery,0=Death)

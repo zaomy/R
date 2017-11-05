@@ -1,0 +1,17 @@
+Dataset:  nat_fib_comp.dat
+
+Source: A. Athijayamani, M. Thiruchitrambalam, V. Manikandan, B. Pazhanivel
+(2010). "Mechanical Properties of Natural Fibers Reinforced Polyester Hybrid
+Composite," International Journal of Plastics Technology," Vol. 14, pp104-116.
+
+Description: Results of experiment relating tensile strength and flexural 
+strength of composite to fiber length and fiber content. Models fit:
+
+TS = A0*(FL^A1)*(FC^A2)
+FS = B0*(FL^B1)*(FC^B2)
+
+Variables/Columns
+Fiber Length (cm)  7-8
+Fiber Content  (wt%)  15-16
+Tensile Strength  (MPa)  20-24
+Flexural Strength (MPa)  28-32

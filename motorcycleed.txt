@@ -1,0 +1,15 @@
+Dataset: motorcycleed.dat
+
+Source: A. Ochiai, Y. Naya, J. Soh, et al (2006). "Do Motorcyclists Have
+Erectile Dysfunction? A Preliminary Study," International Journal of Impotence
+Research, Vol. 18, pp. 396-399
+
+Description: Results of surveys of motorcyclists and non-motorcyclists with
+respect to age and erectile dysfunction measured on IIEF5 scale.
+
+Variables/Columns
+Group   8  /* 1=Control, 2=Motorcycle  */
+Age Range  16  /* 1=20-29, 2=30-39, 3=40-49, 4=50-59  */
+Severity of ED  24  /* 1=No ED, 2=Mild, 3=Mild-to-moderate, 4=Moderate,
+                         5=Severe  */
+Frequency   30-32
