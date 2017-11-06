@@ -1,0 +1,16 @@
+Dataset:  halo1.dat
+
+Source:  Landy and Sigall (1974). "Beauty is Talent: Task Evaluation
+as a Function of the Performer's Physical Attraction," Journal of
+Personality and Social Psychology, 29:299-304.
+
+Description: Two Factor experiment to assess if appearance effects
+judgment of student's essay. Appearance (Attractive/Control/Unattractive)
+and Essay Quality (Good/Poor) are factors (Pictures given with essay, except
+in control). Response: Grade on essay. Data simulated to match their means
+and standard deviations.
+
+Variables/Columns
+Essay Quality    8   /* 1=Good, 2=Poor  */
+Student Attactiveness   16  /*  1= Attractive, 2=Control, 3=Unattractive  */
+score    18-24 
